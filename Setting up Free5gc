@@ -1,0 +1,7 @@
+# Two Vagrant Box Setup - Free5GC and UERANSIM
+
+## 1. Installation and Configuration of Free5GC 
+Make sure you have access to Whitepaper (IITD Lab Machine) before doing this. You need to be on the IITD network. SSH into the lab machine:
+```bash
+ssh <your_username>@<whitepaperIP>
+```
